@@ -8,6 +8,10 @@
    color: #545b62;
 }
 
+.Wallop {
+    top: 20px !important;
+}
+
 .Wallop-dot--current {
   background-color: #bd3c30 !important;
 }
